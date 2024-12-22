@@ -1,0 +1,45 @@
+Objective
+Create a simple blog layout with HTML.
+
+
+<!--  Author Name: Christophe Nshimiyimana.
+                        GigHub Link: https://github.com/Christophe210
+                        Visit My Website : tsindamedia.com -->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Blog</title>
+  </head>
+  <body>
+    <header>
+      <h1>My Blog</h1>
+      <nav>
+        <a href="#home">Home</a> | 
+        <a href="#about">About</a> | 
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>Blog Post Title</h2>
+        <p>Blog content goes here...</p>
+      </section>
+      <section>
+        <h2>Another Post</h2>
+        <p>More blog content...</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2024 My Blog. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
+
+
+
+
+<!--  Author Name: Christophe Nshimiyimana.
+                        GigHub Link: https://github.com/Christophe210
+                        Visit My Website : tsindamedia.com -->
