@@ -1,0 +1,11 @@
+<table border="1">
+  <caption>Student Details</caption>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>25</td>
+  </tr>
+</table>
