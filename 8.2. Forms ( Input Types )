@@ -1,0 +1,12 @@
+Input : 
+Text, Password, Email, Checkbox, Radio Buttons, and File Upload.
+
+
+<form>
+  <input type="text" placeholder="Name">
+  <input type="email" placeholder="Email">
+  <input type="checkbox" id="agree"> Agree
+  <input type="radio" name="gender" value="male"> Male
+  <input type="file">
+</form>
+
